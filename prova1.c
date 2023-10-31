@@ -49,6 +49,9 @@ int main()
                printf("Nenhum numero e divisivel por 0\n");
             }
          }
+         else{
+         	printf("operacao invalida\n");
+		   }
          break;
 
       // Calculadora de IMC
